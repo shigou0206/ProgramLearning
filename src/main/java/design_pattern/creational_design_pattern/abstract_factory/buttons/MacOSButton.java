@@ -3,12 +3,12 @@ package design_pattern.creational_design_pattern.abstract_factory.buttons;
 /**
  * All products families have the same varieties (MacOS/Windows).
  *
- * This is another variant of a button.
+ * This is a MacOS variant of a button.
  */
-public class WindowsButton implements Button {
+public class MacOSButton implements Button {
 
     @Override
     public void paint() {
-        System.out.println("You have created WindowsButton.");
+        System.out.println("You have created MacOSButton.");
     }
 }

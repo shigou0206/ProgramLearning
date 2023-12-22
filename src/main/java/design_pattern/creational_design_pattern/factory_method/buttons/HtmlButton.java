@@ -1,6 +1,6 @@
-package design_pattern.creational_design_pattern.abstract_factory;
+package design_pattern.creational_design_pattern.factory_method.buttons;
 
-public class HtmlButton  implements Button{
+public class HtmlButton  implements Button {
 
     public void render() {
         System.out.println("<button>Test Button</button>");
