@@ -4,19 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4426e4a3-5456-44fa-985b-bfc9c0c863d8" name="Changes" comment="builder pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/prototype/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/prototype/DemoCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/prototype/cache/BundledShapeCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/prototype/shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/prototype/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/prototype/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/singleton/DemoMultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/singleton/DemoMutilThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/singleton/DemoSingleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/singleton/NaiveSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/creational_design_pattern/singleton/ThreadSafeSingleton.java" afterDir="false" />
+    <list default="true" id="4426e4a3-5456-44fa-985b-bfc9c0c863d8" name="Changes" comment="singleton pattern">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/LeetCode1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/LeetCode15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/LeetCode4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/Leetcode11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/heap/LeetCode215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/heap/LeetCode347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/iterators/FacebookIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/iterators/LinkedInIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/iterators/ProfileIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/profile/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/social_networks/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/social_networks/LinkedIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/social_networks/SocialNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/spammer/SocialSpammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/editor/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/listeners/EmailNotificationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/listeners/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/listeners/LogOpenListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/publisher/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/PayByCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/PayByPayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/PayStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/adapters/SquarePegAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/round/RoundHole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/round/RoundPeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/square/SquarePeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/devices/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/devices/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/remotes/AdvancedRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/remotes/BasicRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/remotes/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/editor/ImageEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/BaseShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/CompoundShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/CompressionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/DataSourceDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/EncryptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/FileDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/facade/VideoConversionFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/AudioMixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/BitrateReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/CodecFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/MPEG4CompressionCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/OggCompressionCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/VideoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/forest/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/trees/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/trees/TreeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/trees/TreeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/downloader/YouTubeDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/proxy/YouTubeCacheProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/some_cool_media_library/ThirdPartyYouTubeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/some_cool_media_library/ThirdPartyYouTubeLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/some_cool_media_library/Video.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +89,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -45,24 +107,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DemoMutilThreadSafe">
-    <configuration name="DemoCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.creational_design_pattern.prototype.DemoCache" />
+}</component>
+  <component name="RunManager" selected="Application.design_pattern.structual_pattern.flyweight.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.proxy.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.creational_design_pattern.prototype.*" />
+          <option name="PATTERN" value="design_pattern.structual_pattern.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoMutilThreadSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.creational_design_pattern.singleton.DemoMutilThreadSafe" />
+    <configuration name="design_pattern.structual_pattern.bridge.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.bridge.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.creational_design_pattern.singleton.*" />
+          <option name="PATTERN" value="design_pattern.structual_pattern.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.creational_design_pattern.singleton.DemoSingleThread" />
+    <configuration name="design_pattern.structual_pattern.composite.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.composite.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.creational_design_pattern.singleton.*" />
+          <option name="PATTERN" value="design_pattern.structual_pattern.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="design_pattern.creational_design_pattern.builder.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.creational_design_pattern.builder.Demo" />
+    <configuration name="design_pattern.structual_pattern.decorator.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.decorator.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.creational_design_pattern.builder.*" />
+          <option name="PATTERN" value="design_pattern.structual_pattern.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="design_pattern.creational_design_pattern.prototype.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.creational_design_pattern.prototype.Demo" />
+    <configuration name="design_pattern.structual_pattern.flyweight.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.flyweight.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.creational_design_pattern.prototype.*" />
+          <option name="PATTERN" value="design_pattern.structual_pattern.flyweight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoMutilThreadSafe" />
-        <item itemvalue="Application.DemoSingleThread" />
-        <item itemvalue="Application.design_pattern.creational_design_pattern.prototype.Demo" />
-        <item itemvalue="Application.DemoCache" />
-        <item itemvalue="Application.design_pattern.creational_design_pattern.builder.Demo" />
+        <item itemvalue="Application.design_pattern.structual_pattern.flyweight.Demo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.design_pattern.structual_pattern.bridge.Demo" />
+        <item itemvalue="Application.design_pattern.structual_pattern.decorator.Demo" />
+        <item itemvalue="Application.design_pattern.structual_pattern.composite.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703247005421</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="singleton pattern">
+      <created>1703249078806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703249078806</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +262,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="revise" />
     <MESSAGE value="builder pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="builder pattern" />
+    <MESSAGE value="singleton pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="singleton pattern" />
   </component>
 </project>
