@@ -5,79 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4426e4a3-5456-44fa-985b-bfc9c0c863d8" name="Changes" comment="singleton pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/LeetCode1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/LeetCode15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/LeetCode4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/arrays/Leetcode11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/heap/LeetCode215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/heap/LeetCode347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/iterators/FacebookIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/iterators/LinkedInIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/iterators/ProfileIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/profile/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/social_networks/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/social_networks/LinkedIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/social_networks/SocialNetwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/iterator/spammer/SocialSpammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/editor/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/listeners/EmailNotificationListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/listeners/EventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/listeners/LogOpenListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/observer/publisher/EventManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/PayByCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/PayByPayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/strategy/strategies/PayStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/adapters/SquarePegAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/round/RoundHole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/round/RoundPeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/adapter/square/SquarePeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/devices/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/devices/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/devices/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/remotes/AdvancedRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/remotes/BasicRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/bridge/remotes/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/editor/ImageEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/BaseShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/CompoundShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Dot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/composite/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/CompressionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/DataSourceDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/EncryptionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/decorator/decorators/FileDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/facade/VideoConversionFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/AudioMixer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/BitrateReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/CodecFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/MPEG4CompressionCodec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/OggCompressionCodec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/facade/some_complex_media_library/VideoFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/forest/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/trees/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/trees/TreeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/flyweight/trees/TreeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/downloader/YouTubeDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/proxy/YouTubeCacheProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/some_cool_media_library/ThirdPartyYouTubeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/some_cool_media_library/ThirdPartyYouTubeLib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/structual_pattern/proxy/some_cool_media_library/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/chain_of_responsibility/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/chain_of_responsibility/middleware/Middleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/chain_of_responsibility/middleware/RoleCheckMiddleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/chain_of_responsibility/middleware/ThrottlingMiddleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/chain_of_responsibility/middleware/UserExistsMiddleware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/chain_of_responsibility/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/command/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/command/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/command/commands/CommandHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/command/commands/CopyCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/command/commands/CutCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/command/commands/PasteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/command/editor/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/AddButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/DeleteButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/SaveButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/components/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/mediator/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/mediator/mediator/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/commands/ColorCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/commands/MoveCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/editor/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/editor/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/history/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/history/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/shapes/BaseShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/shapes/CompoundShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/shapes/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/memento/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/state/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/state/states/LockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/state/states/PlayingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/state/states/ReadyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/state/states/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/state/ui/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/state/ui/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/template_method/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/template_method/networks/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/template_method/networks/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/template_method/networks/Twitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/shapes/CompoundShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/shapes/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/behavioral_pattern/visitor/visitor/XMLExportVisitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,13 +103,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.design_pattern.structual_pattern.flyweight.Demo">
+  <component name="RunManager" selected="Application.design_pattern.behavioral_pattern.visitor.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.proxy.Demo" />
+      <option name="MAIN_CLASS_NAME" value="design_pattern.behavioral_pattern.state.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.structual_pattern.proxy.*" />
+          <option name="PATTERN" value="design_pattern.behavioral_pattern.state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="design_pattern.structual_pattern.bridge.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.bridge.Demo" />
+    <configuration name="design_pattern.behavioral_pattern.mediator.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.behavioral_pattern.mediator.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.structual_pattern.bridge.*" />
+          <option name="PATTERN" value="design_pattern.behavioral_pattern.mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="design_pattern.structual_pattern.composite.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.composite.Demo" />
+    <configuration name="design_pattern.behavioral_pattern.memento.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.behavioral_pattern.memento.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.structual_pattern.composite.*" />
+          <option name="PATTERN" value="design_pattern.behavioral_pattern.memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="design_pattern.structual_pattern.decorator.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.decorator.Demo" />
+    <configuration name="design_pattern.behavioral_pattern.template_method.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.behavioral_pattern.template_method.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.structual_pattern.decorator.*" />
+          <option name="PATTERN" value="design_pattern.behavioral_pattern.template_method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="design_pattern.structual_pattern.flyweight.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.structual_pattern.flyweight.Demo" />
+    <configuration name="design_pattern.behavioral_pattern.visitor.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.behavioral_pattern.visitor.Demo" />
       <module name="ProgramLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.structual_pattern.flyweight.*" />
+          <option name="PATTERN" value="design_pattern.behavioral_pattern.visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.design_pattern.structual_pattern.flyweight.Demo" />
+        <item itemvalue="Application.design_pattern.behavioral_pattern.visitor.Demo" />
+        <item itemvalue="Application.design_pattern.behavioral_pattern.template_method.Demo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.design_pattern.structual_pattern.bridge.Demo" />
-        <item itemvalue="Application.design_pattern.structual_pattern.decorator.Demo" />
-        <item itemvalue="Application.design_pattern.structual_pattern.composite.Demo" />
+        <item itemvalue="Application.design_pattern.behavioral_pattern.memento.Demo" />
+        <item itemvalue="Application.design_pattern.behavioral_pattern.mediator.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703249078806</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="singleton pattern">
+      <created>1703312921561</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703312921561</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
